@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to the 2nd slide"
 ---
-This is the 2nd slide on my deck
+I'm making changes because githubteacher said so!
 Use the left arrow to go back!
